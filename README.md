@@ -1,6 +1,6 @@
 # Learning_Latex
 
-Wanted to learn how to make pretty docuements so I'm starting to learn Latex.
+Wanted to learn how to make pretty documents so I'm starting to learn Latex.
 
 Found a tutorial by Indian TeX Users Group.
 
